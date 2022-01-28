@@ -1,0 +1,199 @@
+.climaFrio {
+  max-width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: #667db6; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #667db6,
+    #0082c8,
+    #0082c8,
+    #667db6
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #667db6,
+    #0082c8,
+    #76badf,
+    #ffffff
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.frioNoche {
+  max-width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: #03001e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom,
+    #fdeff9,
+    #ec38bc,
+    #7303c0,
+    #03001e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    #fdeff9,
+    #ec38bc,
+    #7303c0,
+    #03001e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: blanchedalmond;
+}
+
+.climaCaluroso {
+  max-width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: #00c3ff; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to left,
+    #ffffff,
+    rgb(241, 241, 149),
+    rgb(241, 241, 149),
+    #ffff1c,
+    #ffff1c
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to left,
+    #ffffff,
+    rgb(241, 241, 149),
+    rgb(241, 241, 149),
+    #ffff1c,
+    #ffff1c
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.calurosoNoche {
+  max-width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: #793bec; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2d0372,
+    #5b33a7,
+    #8360c3,
+    #793bec
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #2d0372,
+    #5b33a7,
+    #8360c3,
+    #793bec
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: blanchedalmond;
+}
+
+.climaLluvioso {
+  max-width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  color: azure !important;
+  background: #304352; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #304352,
+    #d7d2cc
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #304352,
+    #d7d2cc
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.climaDespejado {
+  max-width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: #667db6; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #667db6,
+    #0082c8,
+    #0082c8,
+    #667db6
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #667db6,
+    #0082c8,
+    #0082c8,
+    #667db6
+  ); /*W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.smoke {
+  max-width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: #96948e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to top,
+    #eaeaea,
+    #dbdbdb,
+    #f2f2f2,
+    #ada996,
+    #96948e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to top,
+    #eaeaea,
+    #dbdbdb,
+    #f2f2f2,
+    #ada996,
+    #96948e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.mist {
+  max-width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: #96948e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom,
+    #eaeaea,
+    #dbdbdb,
+    #f2f2f2,
+    #9ba1ff,
+    #6c89e6
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    #eaeaea,
+    #dbdbdb,
+    #f2f2f2,
+    #9ba1ff,
+    #7e96e6
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.mistNoche {
+  max-width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  background: #96948e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom,
+    #eaeaea,
+    #dbdbdb,
+    #f2f2f2,
+    #9ba1ff,
+    #25065f
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    #eaeaea,
+    #dbdbdb,
+    #f2f2f2,
+    #9ba1ff,
+    #25065f
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.sinClima {
+  background-color: black;
+  color: whitesmoke;
+}
